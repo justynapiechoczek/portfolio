@@ -7,3 +7,5 @@ My name is Justyna Piechoczek. I have graduated with a Bachelor of Japanese lang
 # Tools
 
 * [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+* [TestLink](https://bitnami.com/stacks/testing) - Web-based test management system
+* [GitHub](https://github.com/) - Internet hosting service for software development and version control using Git
